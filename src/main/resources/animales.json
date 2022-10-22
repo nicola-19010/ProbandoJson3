@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Alpaca",
+    "vida": 30,
+    "nombreAtaques": ["Mordizco ", "Patada", "Escupitajo"],
+    "ataques": [5, 4, 2]
+  },
+  {
+    "nombre": "ZorroCulpeo",
+    "vida": 30,
+    "nombreAtaques": ["Mordizco ", "Gruñido", "Placaje"],
+    "ataques": [5, 4, 2]
+  }
+]
